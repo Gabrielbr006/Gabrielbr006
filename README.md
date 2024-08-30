@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi dear! My name's Gabriel Isac
 
-<!--
-**Gabrielbr006/Gabrielbr006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning .NET and React at XP Inc. - Full Stack Developer
+- 🧐 I'm a beginner developer and I'm looking for learn better the programing logic and data structure
+- 👾 And I want to develop games and apps in the future
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-isac-a46734216/)
+
+ ![Gabrielbr006's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielbr006&show_icons=true&theme=dark)
+
+### _Sempre buscando crescer e aprender mais_ 🎯
+
+![DepressedAnimeGIF](https://github.com/user-attachments/assets/ac0caa29-2139-461a-a46b-fbd37b5e0f94)
